@@ -1,0 +1,6 @@
+﻿  AppDelegate.cpp
+c:\users\dell\desktop\buyudaren\classes\appdelegate.cpp(40): warning C4305: “参数”: 从“double”到“float”截断
+  复制了 60 个文件
+  buyudaren.vcxproj -> C:\Users\DELL\Desktop\buyudaren\proj.win32\Debug.win32\buyudaren.exe
+  buyudaren.vcxproj -> C:\Users\DELL\Desktop\buyudaren\proj.win32\Debug.win32\buyudaren.pdb (Full PDB)
+  复制了 0 个文件
